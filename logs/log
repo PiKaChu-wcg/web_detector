@@ -1,0 +1,559 @@
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 241-422-873
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 241-422-873
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 04:45:07] "[32mGET / HTTP/1.1[0m" 302 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\jinja2\\__pycache__\\ext.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\encodings\\__pycache__\\unicode_escape.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 04:45:07] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 04:45:07] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 04:45:08] "[37mGET /static/images/avtar.png HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 04:45:08] "[37mGET /static/images/bg1.jpg HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 04:45:08] "[37mGET /static/images/close.png HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 04:45:08] "[37mGET /static/images/adm.png HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 04:45:08] "[37mGET /static/images/pass.png HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 04:45:08] "[37mGET /static/images/key.png HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 04:45:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 04:45:15] "[37mPOST /login HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 04:45:22] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 04:45:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 04:45:22] "[37mGET /static/recorder.js HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 04:45:24] "[37mGET /video_viewer HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 241-422-873
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 241-422-873
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 05:02:00] "[32mGET / HTTP/1.1[0m" 302 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 05:02:00] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 05:02:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 05:02:05] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 05:02:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 05:02:06] "[37mGET /video_viewer HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 241-422-873
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\jinja2\\__pycache__\\ext.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\encodings\\__pycache__\\unicode_escape.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:16:19] "[37mGET / HTTP/1.1[0m" 200 -
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\__init__.py:241 CACHEDIR=C:\Users\pikachu_wcg\.matplotlib
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\font_manager.py:1436 Using fontManager instance from C:\Users\pikachu_wcg\.matplotlib\fontlist-v330.json
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend qt5agg version unknown.
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend Qt5Agg version unknown.
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend qt5agg version unknown.
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:16:23] "[35m[1mPOST /record_status HTTP/1.1[0m" 500 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 241-422-873
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:24:28] "[37mGET / HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\werkzeug\\wsgi.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\werkzeug\\wrappers\\base_response.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:24:29] "[37mGET /video_viewer HTTP/1.1[0m" 200 -
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\__init__.py:241 CACHEDIR=C:\Users\pikachu_wcg\.matplotlib
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\font_manager.py:1436 Using fontManager instance from C:\Users\pikachu_wcg\.matplotlib\fontlist-v330.json
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend qt5agg version unknown.
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend Qt5Agg version unknown.
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend qt5agg version unknown.
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:24:36] "[35m[1mPOST /record_status HTTP/1.1[0m" 500 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:24:37] "[35m[1mPOST /record_status HTTP/1.1[0m" 500 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 241-422-873
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:25:13] "[37mGET / HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:25:14] "[37mGET /video_viewer HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 241-422-873
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:28:08] "[37mGET / HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:28:09] "[37mGET /video_viewer HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\torch\\backends\\__init__.py', reloading
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\__init__.py:241 CACHEDIR=C:\Users\pikachu_wcg\.matplotlib
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\font_manager.py:1436 Using fontManager instance from C:\Users\pikachu_wcg\.matplotlib\fontlist-v330.json
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend qt5agg version unknown.
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend Qt5Agg version unknown.
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend qt5agg version unknown.
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 241-422-873
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:29:19] "[37mGET / HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:29:20] "[37mGET /video_viewer HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\modules\\home\\views.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\modules\\home\\views.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 241-422-873
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:30:28] "[37mGET / HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:30:29] "[37mGET /video_viewer HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\utils\\camera.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\utils\\camera.py', reloading
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\__init__.py:241 CACHEDIR=C:\Users\pikachu_wcg\.matplotlib
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\font_manager.py:1436 Using fontManager instance from C:\Users\pikachu_wcg\.matplotlib\fontlist-v330.json
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend qt5agg version unknown.
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend Qt5Agg version unknown.
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend qt5agg version unknown.
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 241-422-873
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 241-422-873
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:33:31] "[32mGET / HTTP/1.1[0m" 302 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:33:31] "[32mGET / HTTP/1.1[0m" 302 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:33:31] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:33:32] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:33:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\flask\\__pycache__\\debughelpers.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:33:37] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:33:37] "[37mGET / HTTP/1.1[0m" 200 -
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\__init__.py:241 CACHEDIR=C:\Users\pikachu_wcg\.matplotlib
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\font_manager.py:1436 Using fontManager instance from C:\Users\pikachu_wcg\.matplotlib\fontlist-v330.json
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend qt5agg version unknown.
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend Qt5Agg version unknown.
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend qt5agg version unknown.
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 241-422-873
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:35:16] "[37mGET / HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:35:17] "[37mGET /video_viewer HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\modules\\home\\views.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\modules\\home\\views.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\modules\\home\\views.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 241-422-873
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:36:34] "[37mGET / HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:36:35] "[37mGET /video_viewer HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\utils\\camera.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\utils\\camera.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\utils\\camera.py', reloading
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\__init__.py:241 CACHEDIR=C:\Users\pikachu_wcg\.matplotlib
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\font_manager.py:1436 Using fontManager instance from C:\Users\pikachu_wcg\.matplotlib\fontlist-v330.json
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend qt5agg version unknown.
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend Qt5Agg version unknown.
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend qt5agg version unknown.
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 241-422-873
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:38:16] "[37mGET / HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\torch\\nn\\functional.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:38:20] "[37mGET /video_viewer HTTP/1.1[0m" 200 -
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\__init__.py:241 CACHEDIR=C:\Users\pikachu_wcg\.matplotlib
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\font_manager.py:1436 Using fontManager instance from C:\Users\pikachu_wcg\.matplotlib\fontlist-v330.json
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend qt5agg version unknown.
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend Qt5Agg version unknown.
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend qt5agg version unknown.
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 241-422-873
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:40:11] "[37mGET / HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:40:16] "[37mGET /video_viewer HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\utils\\camera.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\utils\\camera.py', reloading
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\__init__.py:241 CACHEDIR=C:\Users\pikachu_wcg\.matplotlib
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\font_manager.py:1436 Using fontManager instance from C:\Users\pikachu_wcg\.matplotlib\fontlist-v330.json
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 241-422-873
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:42:02] "[37mGET / HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:42:05] "[37mGET /video_viewer HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\modules\\home\\views.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\modules\\home\\views.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\modules\\home\\views.py', reloading
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\__init__.py:241 CACHEDIR=C:\Users\pikachu_wcg\.matplotlib
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\font_manager.py:1436 Using fontManager instance from C:\Users\pikachu_wcg\.matplotlib\fontlist-v330.json
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend qt5agg version unknown.
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend Qt5Agg version unknown.
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend qt5agg version unknown.
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 241-422-873
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:46:25] "[37mGET / HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:46:28] "[37mGET /video_viewer HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\modules\\home\\views.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\modules\\home\\views.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 241-422-873
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:49:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:49:24] "[37mGET /video_viewer HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\modules\\home\\views.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\modules\\home\\views.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\modules\\home\\views.py', reloading
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\__init__.py:241 CACHEDIR=C:\Users\pikachu_wcg\.matplotlib
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\font_manager.py:1436 Using fontManager instance from C:\Users\pikachu_wcg\.matplotlib\fontlist-v330.json
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend qt5agg version unknown.
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend Qt5Agg version unknown.
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend qt5agg version unknown.
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 241-422-873
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:51:37] "[37mGET / HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:51:40] "[37mGET /video_viewer HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\modules\\home\\views.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\modules\\home\\views.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\modules\\home\\views.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 241-422-873
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:52:49] "[37mGET / HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:52:51] "[37mGET /video_viewer HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\modules\\home\\views.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\modules\\home\\views.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\modules\\home\\views.py', reloading
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\__init__.py:241 CACHEDIR=C:\Users\pikachu_wcg\.matplotlib
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\font_manager.py:1436 Using fontManager instance from C:\Users\pikachu_wcg\.matplotlib\fontlist-v330.json
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend qt5agg version unknown.
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend Qt5Agg version unknown.
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\pyplot.py:289 Loaded backend qt5agg version unknown.
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 241-422-873
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:53:36] "[37mGET / HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:53:39] "[37mGET /video_viewer HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\modules\\home\\views.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\modules\\home\\views.py', reloading
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\__init__.py:241 CACHEDIR=C:\Users\pikachu_wcg\.matplotlib
+DEBUG C:\Users\pikachu_wcg\anaconda3\lib\site-packages\matplotlib\font_manager.py:1436 Using fontManager instance from C:\Users\pikachu_wcg\.matplotlib\fontlist-v330.json
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 241-422-873
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:54:55] "[37mGET / HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:54:58] "[37mGET /video_viewer HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 06:55:39] "[37mGET /video_viewer HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\modules\\home\\views.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\controller\\modules\\home\\views.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 241-422-873
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 241-422-873
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 07:03:38] "[37mGET / HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 07:03:41] "[37mGET /video_viewer HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 144-580-488
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Scripts\\conda-script.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\compat.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\cli\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\cli\\__pycache__\\main.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\__pycache__\\activate.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\toolz\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\cytoolz\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\itertoolz.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\utils.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\functoolz.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\_signatures.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\dicttoolz.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\recipes.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\toolz\\curried\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\toolz\\curried\\__pycache__\\operator.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\toolz\\curried\\__pycache__\\exceptions.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\toolz\\sandbox\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\toolz\\sandbox\\__pycache__\\core.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\toolz\\sandbox\\__pycache__\\parallel.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\_version.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\cytoolz\\__pycache__\\_signatures.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\cytoolz\\curried\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\cytoolz\\curried\\__pycache__\\operator.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\cytoolz\\curried\\__pycache__\\exceptions.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\cytoolz\\__pycache__\\_version.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\compat.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\__pycache__\\five.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\__pycache__\\six.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\base\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\base\\__pycache__\\constants.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\base\\__pycache__\\context.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\__pycache__\\appdirs.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\decorators.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\ish.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\boltons\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\boltons\\__pycache__\\setutils.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\__pycache__\\frozendict.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\configuration.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\constants.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\path.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\distutils\\__pycache__\\spawn.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\distutils\\__pycache__\\errors.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\distutils\\__pycache__\\debug.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\distutils\\__pycache__\\log.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\serialize.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\entity.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\boltons\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\boltons\\__pycache__\\timeutils.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\collection.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\exceptions.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\logz.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\type_coercion.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\cyaml.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\ext\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\error.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\compat.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\reader.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\util.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\scanner.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\tokens.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\parser.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\events.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\composer.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\nodes.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\constructor.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\comments.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\scalarstring.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\anchor.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\scalarint.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\scalarfloat.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\scalarbool.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\timestamp.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\emitter.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\serializer.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\representer.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\resolver.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\main.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\loader.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\dumper.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\common\\_os\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\common\\_os\\__pycache__\\windows.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\common\\_os\\__pycache__\\linux.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\url.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\urllib3\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\urllib3\\__pycache__\\exceptions.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\urllib3\\util\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\urllib3\\util\\__pycache__\\url.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\decorators.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 144-580-488
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 07:16:41] "[32mGET / HTTP/1.1[0m" 302 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\jinja2\\__pycache__\\ext.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 07:16:42] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\encodings\\__pycache__\\unicode_escape.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 07:16:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 144-580-488
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 07:16:47] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 07:16:47] "[37mGET / HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 07:16:51] "[37mGET /video_viewer HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\VScode\\python\\flask\\flask-video-streaming-recorder\\main.py', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 144-580-488
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\multiprocessing\\__pycache__\\queues.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\concurrent\\futures\\__pycache__\\thread.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\tqdm\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\tqdm\\__pycache__\\_monitor.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\tqdm\\__pycache__\\cli.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\tqdm\\__pycache__\\std.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\tqdm\\__pycache__\\utils.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\tqdm\\__pycache__\\version.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\signals.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\cli\\__pycache__\\conda_argparse.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\gateways\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\gateways\\__pycache__\\logging.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\cli\\__pycache__\\main_info.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\cli\\__pycache__\\common.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\models\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\models\\__pycache__\\match_spec.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\models\\__pycache__\\channel.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\models\\__pycache__\\version.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\core\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\core\\__pycache__\\index.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\core\\__pycache__\\package_cache_data.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\core\\__pycache__\\path_actions.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\core\\__pycache__\\envs_manager.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\core\\__pycache__\\prefix_data.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\common\\pkg_formats\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\common\\pkg_formats\\__pycache__\\python.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\__pycache__\\configparser.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\gateways\\disk\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\gateways\\disk\\__pycache__\\create.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\gateways\\disk\\__pycache__\\delete.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\gateways\\disk\\__pycache__\\link.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\gateways\\disk\\__pycache__\\permissions.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\gateways\\disk\\__pycache__\\update.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\models\\__pycache__\\enums.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\gateways\\disk\\__pycache__\\read.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\models\\__pycache__\\package_info.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\models\\__pycache__\\records.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\_vendor\\boltons\\__pycache__\\timeutils.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\gateways\\disk\\__pycache__\\test.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\models\\__pycache__\\prefix_graph.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\core\\__pycache__\\portability.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\gateways\\connection\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\__pycache__\\exceptions.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\packages\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\packages\\__pycache__\\six.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\__pycache__\\_version.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\__pycache__\\connectionpool.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\__pycache__\\connection.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\util\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\util\\__pycache__\\connection.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\contrib\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\contrib\\__pycache__\\_appengine_environ.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\util\\__pycache__\\wait.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\util\\__pycache__\\request.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\brotli\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\brotli\\__pycache__\\brotli.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\util\\__pycache__\\response.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\util\\__pycache__\\retry.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\util\\__pycache__\\ssl_.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\util\\__pycache__\\url.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\util\\__pycache__\\ssltransport.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\util\\__pycache__\\timeout.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\util\\__pycache__\\proxy.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\__pycache__\\_collections.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\__pycache__\\request.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\__pycache__\\filepost.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\__pycache__\\fields.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\__pycache__\\response.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\util\\__pycache__\\queue.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\__pycache__\\poolmanager.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\universaldetector.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\charsetgroupprober.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\enums.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\charsetprober.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\escprober.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\codingstatemachine.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\escsm.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\latin1prober.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\mbcsgroupprober.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\utf8prober.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\mbcssm.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\sjisprober.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\mbcharsetprober.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\chardistribution.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\euctwfreq.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\euckrfreq.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\gb2312freq.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\big5freq.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\jisfreq.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\jpcntx.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\eucjpprober.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\gb2312prober.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\euckrprober.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\cp949prober.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\big5prober.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\euctwprober.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\sbcsgroupprober.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\hebrewprober.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\langbulgarianmodel.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\sbcharsetprober.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\langgreekmodel.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\langhebrewmodel.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\langrussianmodel.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\langthaimodel.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\langturkishmodel.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\chardet\\__pycache__\\version.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\exceptions.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\__version__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\utils.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\certs.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\certifi\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\certifi\\__pycache__\\core.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\importlib\\__pycache__\\resources.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\_internal_utils.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\compat.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\http\\__pycache__\\cookies.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\cookies.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\structures.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\packages.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\idna\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\idna\\__pycache__\\package_data.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\idna\\__pycache__\\core.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\idna\\__pycache__\\idnadata.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\idna\\__pycache__\\intranges.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\models.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\hooks.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\auth.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\status_codes.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\api.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\sessions.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\requests\\__pycache__\\adapters.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\urllib3\\contrib\\__pycache__\\socks.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\__pycache__\\socks.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\gateways\\connection\\__pycache__\\download.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\gateways\\connection\\__pycache__\\session.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\gateways\\connection\\adapters\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\gateways\\connection\\adapters\\__pycache__\\ftp.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\__pycache__\\cgi.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\__pycache__\\ftplib.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\gateways\\connection\\adapters\\__pycache__\\localfs.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\conda\\gateways\\connection\\adapters\\__pycache__\\s3.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\boto\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\boto\\pyami\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\boto\\pyami\\__pycache__\\config.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\boto\\__pycache__\\compat.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\boto\\vendored\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\boto\\vendored\\__pycache__\\six.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\boto\\__pycache__\\storage_uri.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\boto\\s3\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\boto\\__pycache__\\regioninfo.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\boto\\__pycache__\\exception.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\xml\\sax\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\xml\\sax\\__pycache__\\xmlreader.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\xml\\sax\\__pycache__\\handler.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\xml\\sax\\__pycache__\\_exceptions.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\boto\\__pycache__\\handler.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\boto\\__pycache__\\resultset.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\boto\\s3\\__pycache__\\user.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\boto\\__pycache__\\endpoints.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\boto\\vendored\\regions\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\boto\\vendored\\regions\\__pycache__\\regions.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\boto\\vendored\\regions\\__pycache__\\exceptions.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Detected change in 'C:\\Users\\pikachu_wcg\\anaconda3\\Lib\\site-packages\\boto\\s3\\__pycache__\\deletemarker.cpython-38.pyc', reloading
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Restarting with windowsapi reloader
+WARNING C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger is active!
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Debugger PIN: 144-580-488
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 07:41:01] "[37mGET / HTTP/1.1[0m" 200 -
+INFO C:\Users\pikachu_wcg\anaconda3\lib\site-packages\werkzeug\_internal.py:113 127.0.0.1 - - [22/Aug/2021 07:41:04] "[37mGET /video_viewer HTTP/1.1[0m" 200 -
